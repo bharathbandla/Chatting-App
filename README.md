@@ -15,5 +15,5 @@ basic chatting application
 <img src="https://user-images.githubusercontent.com/82259446/140871346-1ef90cd6-350d-4b3c-a513-f9c6329d1be5.gif"  width="200" height="400" />
 <img src="https://user-images.githubusercontent.com/82259446/140871483-527a1123-c674-495e-950e-96f2a6032b5a.gif"  width="200" height="400" />
   
-<img src="https://user-images.githubusercontent.com/82259446/129228961-490f9c59-0237-4f48-93c2-60b87627b16f.png"  width="200" height="400" /> 
+<img src="https://user-images.githubusercontent.com/82259446/140871581-688778af-af6e-47e2-ac07-b7300db6566d.gif"  width="200" height="400" /> 
 </p>
