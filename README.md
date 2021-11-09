@@ -10,10 +10,10 @@ basic chatting application
   <li>Chatting - any user can chat with other users present in the app, all the conversations are saved into the firebase</li>
 </ul>
 
-![2021-11-06 21-17-48_Trim](https://user-images.githubusercontent.com/82259446/140617212-ce259860-1a24-4368-bc25-5c25c771485b.gif)
-
-
-![2021-11-06 21-17-48_Trim (2)](https://user-images.githubusercontent.com/82259446/140633392-01738f95-643d-468d-8b8d-57d12805bf29.gif)
-
-
-![2021-11-06 21-17-48_Trim (1)](https://user-images.githubusercontent.com/82259446/140633423-e362428c-2669-43db-b84a-490e33d7aaf2.gif)
+<p float="left">
+  
+<img src="https://user-images.githubusercontent.com/82259446/140871346-1ef90cd6-350d-4b3c-a513-f9c6329d1be5.gif"  width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/82259446/140871483-527a1123-c674-495e-950e-96f2a6032b5a.gif"  width="200" height="400" />
+  
+<img src="https://user-images.githubusercontent.com/82259446/129228961-490f9c59-0237-4f48-93c2-60b87627b16f.png"  width="200" height="400" /> 
+</p>
